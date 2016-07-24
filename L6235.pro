@@ -1,4 +1,4 @@
-update=mar. 12 juil. 2016 17:01:42 CEST
+update=Samedi 23 juillet 2016 21:26:18
 version=1
 last_client=kicad
 [cvpcb]
@@ -69,3 +69,13 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
